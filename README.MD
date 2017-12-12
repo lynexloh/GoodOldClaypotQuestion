@@ -6,3 +6,7 @@ Complete the `claypot` function in index.js abiding by the following conditions
 - If the value is divisible by 5, print `pot` instead.
 - If the value is divisible by both 3 and 5, print `Claypot` instead.
 - The expected output should be like the one in `ExpectedOutput.png`
+
+Notes:
+- If you need to test, open `index.html` in your browser, open up the development tools, and open up the console
+- Then, simply call the function out like this: `claypot(1, 30)`
